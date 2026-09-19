@@ -1,2 +1,2 @@
 # bulb-
-A simple interactive Bulb project using HTML, CSS, and JavaScript that allows users to turn the bulb ON and OFF with a button.
+A simple Bulb ON/OFF app built using HTML5 and JavaScript.
